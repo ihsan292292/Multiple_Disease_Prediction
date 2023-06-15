@@ -5,9 +5,9 @@ from streamlit_option_menu import option_menu
 
 
 #loading the saved models
-diabetes_model = pickle.load(open('/home/ihsan/Documents/GitHub/ML-AI-ICT-course/ML Projects/Diabetes prediction/multiple_disease_saved_models/diabetes_model.sav' , 'rb'))
-heart_disease_model_model = pickle.load(open('/home/ihsan/Documents/GitHub/ML-AI-ICT-course/ML Projects/Diabetes prediction/multiple_disease_saved_models/heart_disease_model.sav' , 'rb'))
-parkinsons_model = pickle.load(open('/home/ihsan/Documents/GitHub/ML-AI-ICT-course/ML Projects/Diabetes prediction/multiple_disease_saved_models/parkinson_model.sav' , 'rb'))
+diabetes_model = pickle.load(open('/home/ihsan/Documents/GitHub/Multiple_Disease_Prediction/multiple_disease_saved_models/diabetes_model.sav' , 'rb'))
+heart_disease_model_model = pickle.load(open('/home/ihsan/Documents/GitHub/Multiple_Disease_Prediction/multiple_disease_saved_models/heart_disease_model.sav' , 'rb'))
+parkinsons_model = pickle.load(open('/home/ihsan/Documents/GitHub/Multiple_Disease_Prediction/multiple_disease_saved_models/parkinson_model.sav' , 'rb'))
 
 # sidebar for navigate
 
