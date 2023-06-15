@@ -9,8 +9,6 @@ diabetes_model = pickle.load(open('/home/ihsan/Documents/GitHub/ML-AI-ICT-course
 heart_disease_model_model = pickle.load(open('/home/ihsan/Documents/GitHub/ML-AI-ICT-course/ML Projects/Diabetes prediction/multiple_disease_saved_models/heart_disease_model.sav' , 'rb'))
 parkinsons_model = pickle.load(open('/home/ihsan/Documents/GitHub/ML-AI-ICT-course/ML Projects/Diabetes prediction/multiple_disease_saved_models/parkinson_model.sav' , 'rb'))
 
-
-
 # sidebar for navigate
 
 with st.sidebar:
