@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/ihsan/Documents/GitHub/ML-AI-ICT-course/ML Projects/Diabetes prediction/env"
+VIRTUAL_ENV="/home/ihsan/Documents/GitHub/Multiple_Disease_Prediction/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

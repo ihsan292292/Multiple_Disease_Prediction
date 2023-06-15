@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/ihsan/Documents/GitHub/ML-AI-ICT-course/ML Projects/Diabetes prediction/env"
+set -gx VIRTUAL_ENV "/home/ihsan/Documents/GitHub/Multiple_Disease_Prediction/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

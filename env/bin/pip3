@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/ihsan/Documents/GitHub/ML-AI-ICT-course/ML Projects/Diabetes prediction/env/bin/python3" "$0" "$@"
-' '''
+#!/home/ihsan/Documents/GitHub/Multiple_Disease_Prediction/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
